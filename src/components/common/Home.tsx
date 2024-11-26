@@ -15,5 +15,5 @@ const Home: React.FC = () => {
 
 export default Home;
 
-// Add this line to make it a module
+// Ensure it is explicitly declared as a module
 export {};
